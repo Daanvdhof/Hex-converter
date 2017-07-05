@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\dvandenhof\documents\visual studio 2015\projects\hex converter 2\hex converter 2\source.cpp(70): warning C4018: '<': signed/unsigned mismatch
+  Hex converter 2.vcxproj -> c:\users\dvandenhof\documents\visual studio 2015\Projects\Hex converter 2\Debug\Hex converter 2.exe
+  Hex converter 2.vcxproj -> c:\users\dvandenhof\documents\visual studio 2015\Projects\Hex converter 2\Debug\Hex converter 2.pdb (Full PDB)
